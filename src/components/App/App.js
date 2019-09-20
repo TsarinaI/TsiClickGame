@@ -5,7 +5,6 @@ import Header from '../Header/Header.js';
 import Alerts from '../Alerts/Alerts.js';
 import Score from '../Score/Score.js';
 import Main from '../Main/Main.js';
-import Footer from '../Footer/Footer.js';
 import Card from '../Card/Card.js';
 import cards from '../../assets/json/cards.json';
 
@@ -113,7 +112,6 @@ class App extends Component{
                         />
                     ))}
                 </Main>
-                <Footer/>
             </div>
         );
     };
