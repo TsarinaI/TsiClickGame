@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "count" : 0,
+        "name" : "Pikachu",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    },
+    {
+        "id" : 2,
+        "count" : 0,
+        "name" : "Sandshrew",
+        "image": "http://static.pokemonpets.com/images/monsters-images-800-800/27-Sandshrew.png",
+    },
+    {
+        "id" : 3,
+        "count" : 0,
+        "name" : "Charmander",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    },
+    {
+        "id" : 4,
+        "count" : 0,
+        "name" : "Jigglypuff",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
+    },
+    {
+        "id" : 5,
+        "count" : 0,
+        "name" : "Snorlax",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+    },
+    {
+        "id" : 6,
+        "count" : 0,
+        "name" : "Bulbasaur",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+        "id" : 7,
+        "count" : 0,
+        "name" : "Squirtle",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+        "id" : 8,
+        "count" : 0,
+        "name" : "Mew",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png"
+    },
+    {
+        "id" : 9,
+        "count" : 0,
+        "name" : "Scyther",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png"
+    },
+    {
+        "id" : 10,
+        "count" : 0,
+        "name" : "Onix",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png"
+    },
+    {
+        "id" : 11,
+        "count" : 0,
+        "name" : "Goldeen",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png"
+    },
+    {
+        "id" : 12,
+        "count" : 0,
+        "name" : "Vulpix",
+        "image" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png"
+    },
+]
